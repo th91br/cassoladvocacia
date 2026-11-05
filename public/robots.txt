@@ -1,0 +1,9 @@
+# Cassol Advocacia - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /wp-admin
+Disallow: /login
+Disallow: /dashboard
+
+Sitemap: https://cassoladvocacia.com.br/sitemap.xml
